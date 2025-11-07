@@ -1,7 +1,7 @@
 #Define the  variables
 
-number1 = 11
-number2 = 9
+number1 = 10
+number2 = 5
 
 
 #Perform calculations
