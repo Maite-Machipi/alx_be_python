@@ -1,6 +1,5 @@
 # bank_account.py
 
-import sys
 
 class BankAccount:
     def __init__(self, initial_balance=0.0):
@@ -25,5 +24,5 @@ class BankAccount:
 
     def display_balance(self):
         """Print the current balance."""
-        print(f"Current Balance: ${self.account_balance:2f}")
+        print(f"Current Balance: ${self.account_balance:.2f}")
 
